@@ -268,9 +268,6 @@ CCTV-17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/
 黄龙洗身洞,http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
 
 临时测试,#genre#
-星空卫视,http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8
-星空卫视,http://110.77.0.182:1935/dvr/1010.stream/chunklist_w1609220598.m3u8
-华娱卫视,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
+华娱卫视,http://httpdvb.slave.pygdzhcs.com:13164/playurl?programid=4200000125
 华娱卫视,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/as/live/cetv_4.m3u8
-华娱卫视,http://ktv044.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
-华娱卫视,http://110.77.0.182:1935/dvr/1012.stream/playlist.m3u8
+星空卫视,http://hdtv.lzu6.edu.cn/hls/startv.m3u8
