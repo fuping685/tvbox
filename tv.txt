@@ -94,5 +94,5 @@ CCTV17 农业农村,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_
 
 
 临时测试,#genre#
-CCTV-1高清,http://iptv.tvfix.org/hls/cctv1hd.m3u8
-CCTV-1香港版高清,http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
+CCTV-1高清,http://live1.nty.tv189.com/tm-cctv1tm-800k.m3u8
+CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
