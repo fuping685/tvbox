@@ -94,4 +94,3 @@ CCTV17 农业农村,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_
 
 
 临时测试,#genre#
-CCTV-1高清,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
