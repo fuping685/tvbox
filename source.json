@@ -6,6 +6,7 @@
       "url": "https://fuping.netlify.app/tv.txt"
     }
   ],
+  "spider": "https://jihulab.com/Misscrazy/Misscrazy/-/raw/master/jar/XC0.jar",
   "sites": [
     {
       "key": "csp_Czsapp",
